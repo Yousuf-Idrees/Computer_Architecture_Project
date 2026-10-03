@@ -32,10 +32,10 @@ An interactive, C-based game where players test their logic by guessing a secret
    git clone https://github.com/Yousuf-Idrees/Computer_Architecture_Project.git
    cd Computer_Architecture_Project
 
-### Compile the source code:
+### **2. Compile the source code:**
 ```bash
 gcc main.c -o guessing_game
 
-### Run the executable:
+### **3. Run the executable:**
 ```bash
 ./guessing_game
