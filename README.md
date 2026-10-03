@@ -33,9 +33,9 @@ An interactive, C-based game where players test their logic by guessing a secret
    cd Computer_Architecture_Project
 
 ### Compile the source code:
-
+```bash
 gcc main.c -o guessing_game
 
 ### Run the executable:
-
+```bash
 ./guessing_game
