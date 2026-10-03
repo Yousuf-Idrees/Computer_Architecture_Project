@@ -27,15 +27,15 @@ An interactive, C-based game where players test their logic by guessing a secret
 
 ### Compilation & Execution
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Yousuf-Idrees/Computer_Architecture_Project.git
-   cd Computer_Architecture_Project
+Run the following commands in your terminal:
 
-### **2. Compile the source code:**
 ```bash
+# 1. Clone the repository
+git clone [https://github.com/Yousuf-Idrees/Computer_Architecture_Project.git](https://github.com/Yousuf-Idrees/Computer_Architecture_Project.git)
+cd Computer_Architecture_Project
+
+# 2. Compile the source code
 gcc main.c -o guessing_game
 
-### **3. Run the executable:**
-```bash
+# 3. Run the executable
 ./guessing_game
